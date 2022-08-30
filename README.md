@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Annth0/Annth0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Wellcome 😄⚡
+My no-name is Annthony, I'm from Colombia and I'm a Systems technician...
+* 🔭Currently working for [Rocket Koders](https://github.com/Annth0/RocketKoders01) as Annth0_ Koder by UTP - Misión tic 2022 -> 69-{3}
+* I have a [YouTube channel](https://youtube.com/)
+* I offer consulting hours , you can find a slot [ here ] ( https://peladonerd.as.me )
 
-Here are some ideas to get you started:
+## Skills
+                                                               Annth0 Koder
+                                                             ( in Spanish ) about S
+* Using html by school since first view on 2017
+* Graphic design - course creator for institute learning
+* Critical thinking, decision - making and problem solving skills
+  Some Python coding, html, css using bootstrap & flask
+* Special skills and experience in fast growing startups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+Find all of my socials and resume in my [faceboksite]( https://facebook.com/PanPaLucho )
