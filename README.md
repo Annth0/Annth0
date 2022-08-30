@@ -8,9 +8,10 @@ My no-name is Annthony, I'm from Colombia and I'm a Systems technician...
 
 ## Skills
                                                                Annth0 Koder
-                                                              ( in Spanish )     <- Idk how did I do that :0
+                                                              ( in Spanish )     <- Idk how did I do this block :0
 * Using html by school since first view on 2017
 * Graphic design - course creator for institute learning
+* English teacher & program creator for institute learning
 * Critical thinking, decision - making and problem solving skills
   Some Python coding, html, css using bootstrap & flask
 * Special skills and experience in fast growing startups.
