@@ -9,6 +9,8 @@ My no-name is Annthony, I'm from Colombia and I'm a Systems technician...
 ## Skills
                                                                Annth0 Koder
                                                               ( in Spanish )     <- Idk how did I do this block :0
+<br>
+[![Annth0 GitHub stats](https://github-readme-stats.vercel.app/api?username=annth0)](https://github.com/anuraghazra/github-readme-stats)
 * Using html by school since first view on 2017
 * Graphic design - course creator for institute learning
 * English teacher & program creator for institute learning
@@ -28,6 +30,4 @@ Find all of my socials and resume in my [faceboksite]( https://facebook.com/PanP
 <a ref="tel:+573125953239" target="_self">
 <img align="left" alt="icon | ph"  width="21px" src="https://cdn-icons-png.flaticon.com/512/950/950311.png">
 </a><br>
-<br>
-[![Annth0 GitHub stats](https://github-readme-stats.vercel.app/api?username=annth0)](https://github.com/anuraghazra/github-readme-stats)
 
