@@ -5,10 +5,15 @@ My no-name is Annthony, I'm from Colombia and I'm a Systems technician...
 * 🔭Currently working for [Rocket Koders](https://github.com/Annth0/RocketKoders01) as Annth0_ Koder by UTP - Misión tic 2022 -> 69-{3}, appart of my daily work as Admin on DR.
 * I have a [YouTube channel](https://youtube.com/)
 * I offer my time passing by | to beeing with you [Here!](https://api.whatsapp.com/send?phone=+573125953139&text=Hey!%20I%20have%20seen%20your%20GitHub%20Link.%20Let's%20talk%20together!)
-<a href="">
-  <img align="left" alt="icon | fb"  width="21px" src="">
+<a href="https://facebook.com/PanPaLucho">
+  <img align="right" alt="icon | fb"  width="21px" src="https://cdn-icons-png.flaticon.com/512/1384/1384005.png">
 </a>
-
+<a href="https://api.whatsapp.com/send?phone=+573125953139&text=Hey!%20I%20have%20seen%20your%20GitHub%20Link.%20Let's%20talk%20together!">
+  <img align="right" alt="icon | wp"  width="21px" src="https://cdn-icons-png.flaticon.com/512/733/733641.png">
+</a>
+<a ref="phone:573125953239">
+<img align="right" alt="icon | ph"  width="21px" src="https://cdn-icons-png.flaticon.com/512/950/950311.png">
+</a>
 ## Skills
                                                                Annth0 Koder
                                                               ( in Spanish )     <- Idk how did I do this block :0
