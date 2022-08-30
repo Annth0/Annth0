@@ -33,7 +33,7 @@ Find all of my socials and resume in my [faceboksite]( https://facebook.com/PanP
 <a target="_blank" href="https://api.whatsapp.com/send?phone=+573125953139&text=Hey!%20I%20have%20seen%20your%20GitHub%20Link.%20Let's%20talk%20together!">
   <img align="right" alt="icon | wp"  width="21px" src="https://cdn-icons-png.flaticon.com/512/733/733641.png">
 </a>
-<a ref="tel:+573125953239" target="_self">
+<a ref="tel:+573125953239" target="_blank">
 <img align="left" alt="icon | ph"  width="21px" src="https://cdn-icons-png.flaticon.com/512/950/950311.png">
 </a><br>
 
