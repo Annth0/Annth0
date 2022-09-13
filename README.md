@@ -37,3 +37,4 @@ Find all of my socials and resume in my [faceboksite]( https://facebook.com/PanP
 <img align="left" alt="icon | ph"  width="21px" src="https://cdn-icons-png.flaticon.com/512/950/950311.png">
 </a><br>
 
+<a><img align="center" alt="Dino | ph"  width="201px" src="https://raw.githubusercontent.com/hackclub/dinosaurs/Anntho/Annth0_Annth0Dino.png"></a><br>
