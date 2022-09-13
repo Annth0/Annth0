@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Wellcome 😄⚡
+### Wellcome 😄
 My no-name is Annthony, I'm from Colombia and I'm a Systems technician...
 * 🔭Currently working for [Rocket Koders](https://github.com/Annth0/RocketKoders01) as Annth0_ Koder by UTP - Misión tic 2022 -> 69-{3}, appart of my daily work as Admin on DR.
 * I have a [YouTube channel](https://youtube.com/)
@@ -25,8 +25,7 @@ My no-name is Annthony, I'm from Colombia and I'm a Systems technician...
 * Special skills and experience in fast growing startups.
 
 ## Contact
-Find all of my socials and resume in my [faceboksite]( https://facebook.com/PanPaLucho )
-¬.¬
+Find all of my socials and resume in my [facebok⚡site]( https://facebook.com/PanPaLucho )¬.¬
 <a href="https://facebook.com/PanPaLucho" target="_blank">
   <img align="right" alt="icon | fb"  width="21px" src="https://cdn-icons-png.flaticon.com/512/1384/1384005.png">
 </a>
@@ -34,7 +33,8 @@ Find all of my socials and resume in my [faceboksite]( https://facebook.com/PanP
   <img align="right" alt="icon | wp"  width="21px" src="https://cdn-icons-png.flaticon.com/512/733/733641.png">
 </a>
 <a ref="tel:+573125953239" target="_blank">
-<img align="left" alt="icon | ph"  width="21px" src="https://cdn-icons-png.flaticon.com/512/950/950311.png">
+  <img align="left" alt="icon | ph"  width="21px" src="https://cdn-icons-png.flaticon.com/512/950/950311.png">
 </a><br>
 
+## Media
 <a><img align="center" alt="Dino | ph"  width="201px" src="https://raw.githubusercontent.com/hackclub/dinosaurs/Anntho/Annth0_Annth0Dino.png"></a><br>
