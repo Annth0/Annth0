@@ -12,8 +12,8 @@ My no-name is Annthony, I'm from Colombia and I'm a Systems technician...
 
 [![Annth0 GitHub stats](https://github-readme-stats.vercel.app/api?username=annth0&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=annth0&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annth0&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
